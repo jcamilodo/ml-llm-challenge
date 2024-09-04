@@ -45,8 +45,8 @@ Este repositorio contiene el desarrollo de dos retos orientados a Machine Learni
 │   ├── documentation.pdf
 │
 └── resume-screen/
-│    ├── resume-screen/Resume_Screening_LLM.ipynb    
-│    ├── resume-screen/Resume Screening LLM .pdf 
+│    ├── Resume_Screening_LLM.ipynb    
+│    ├── Resume Screening LLM .pdf 
 ```
 
 ## Requisitos
