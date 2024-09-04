@@ -1,6 +1,3 @@
-# ml-llm-challenge
-ML challenge and LLM-RAG
-
 # Machine Learning y LLM con RAG
 
 Este repositorio contiene el desarrollo de dos retos orientados a Machine Learning y Procesamiento de Lenguaje Natural, organizados en las siguientes carpetas:
@@ -67,7 +64,7 @@ Este repositorio contiene el desarrollo de dos retos orientados a Machine Learni
     cd db-ml-classification
     jupyter notebook Pre Analisis Wine Classification.ipynb
    ```
-    ```bash
+   ```bash
     cd resume-screen
     jupyter notebook Resume_Screening_LLM.ipynb
    ```
